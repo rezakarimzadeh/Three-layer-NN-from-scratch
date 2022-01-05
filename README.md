@@ -9,4 +9,3 @@ we use hand-written numbers provided in 'hand_digit_data.mat' for training our n
 you can see some data with its corresponding label in following:
 ![alt text](images/02-images-labels.png)
 
-W = rand(L_{out}, 1 + L_{in})*2*\epsilon-\epsilon ,\quad \epsilon = 0.12
